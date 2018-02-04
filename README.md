@@ -5,4 +5,4 @@ You can play in single player (the program will randomly choose a word in hangma
 
 # Screenshot 
 
-![Screenshot_of_the_game](https://github.com/DrLux/Pyt-Hangman/hangman.jpg)
+![Screenshot_of_the_game](https://drlux.github.io/hangman.JPG)
